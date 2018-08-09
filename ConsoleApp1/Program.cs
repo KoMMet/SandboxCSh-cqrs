@@ -43,8 +43,7 @@ namespace ConsoleApp1
                 age = cac.Age;
             }
         }
-
-        public bool CanVote => age >= 18;
+        
     }
 
     public class EventBroker
